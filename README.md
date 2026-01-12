@@ -1,5 +1,5 @@
 # FreeElectronSpinPolarizerCode
-The included matlab code are used to simulate and produce the figures in the main text of, DOI: https://doi.org/10.1103/3c1m-d3hh. This code performs implementations of the equations provided in the text based on the Pauli equation of a free electron interacting with two stages of near-fields. This work explores the spin and momentum characteristics of the resulting free electron wavepacket.
+The included matlab code are used to simulate and produce the figures of, DOI: https://doi.org/10.1103/3c1m-d3hh. This code performs implementations of the equations provided in the text based on the Pauli equation of a free electron interacting with two stages of near-fields. This work explores the spin and momentum characteristics of the resulting free electron wavepacket.
 
 SpinExpectation.m plots the spatial spin probability density from the simplified two stage interaction. User inputs include interaction strength, phase, and lengths. The total spin expectation value is also printed as a ratio corresponding to 1 being fulling spin polarized positive and -1 being fully spin polarized negative.
 
